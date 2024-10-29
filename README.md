@@ -11,11 +11,11 @@
 - From [here](https://github.com/mozilla/geckodriver/releases)
 - Unzip the file:
 ```
-$tar -xvf filename.tar.gz
+tar -xvf filename.tar.gz
 ```
 - Move the executable:
 ```
-$mv path/to/geckodriver /usr/local/bin/geckodriver
+mv path/to/geckodriver /usr/local/bin/geckodriver
 ```
 
 ### Activate conda environment
