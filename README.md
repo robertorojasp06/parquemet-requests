@@ -1,4 +1,5 @@
 # Parquemet requests
+![demo](assets/demo.gif)
 
 ## Setup
 
